@@ -1,0 +1,30 @@
+body, button{
+    font-family: 'Faruma';
+}
+.box{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    /* background-color: aqua; */
+    /* align-items: center; */
+    text-align: center;
+}
+
+button{
+
+    margin: 5px;
+    font-size: 20px;
+}
+
+#word{
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    
+}
+#numberInWords{
+    font-family: 'Faruma';
+    font-size: 25px;
+    color: rgb(85, 141, 204);
+}
+
